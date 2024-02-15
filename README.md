@@ -1,7 +1,7 @@
 Welcome to my page!
 - 👋 Hi, I’m @IrynaBernyk
 - 🌱 I’m currently learning Python,
-- currently living in Lviv, Ukraine 
+- and living in Lviv, Ukraine 
 
 
 
