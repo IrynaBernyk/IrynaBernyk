@@ -1,3 +1,5 @@
+Hi, I'm Iryna!
+
 Welcome to my page!
 - 👋 Hi, I’m @IrynaBernyk
 - 🌱 I’m currently learning Python,
